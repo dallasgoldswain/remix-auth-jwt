@@ -66,7 +66,7 @@
     "typescript": "^4.9.5"
   },
   "dependencies": {
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.2",
     "jsonwebtoken-esm": "^1.0.5",
     "reflect-metadata": "^0.1.13",
     "remix-auth": "^3.0.0",
